@@ -27,6 +27,25 @@ Install dependencies:
 npm i
 ```
 
+No configuration or complicated folder structures, just the files you need to build your app:
+
+```
+preact-boilerplate
+├── README.md
+├── node_modules
+├── package.json
+├── .gitignore
+├── public
+│   ├── favicon.ico
+│   └── index.html
+└── src
+    ├── App.css
+    ├── App.js
+    ├── index.css
+    ├── index.js
+    └── logo.png
+```
+
 Finally, you need to start a local web server. Run:
 
 ```
