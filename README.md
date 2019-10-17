@@ -2,6 +2,10 @@
 
 A minimal Preact boilerplate project, powered by Parcel.
 
+<p align="center">
+  <img src"https://user-images.githubusercontent.com/48409548/67021430-0c0a7880-f119-11e9-8031-cbc278164e4b.png" alt='Preact App in Action'>
+</p>
+
 ## Development
 
 To get a local copy of the code, clone it using git:
@@ -14,14 +18,13 @@ cd preact-boilerplate
 Make it your own:
 
 ```
-# This re-initializes the repo and sets up your NPM project.
-rm -rf .git && git init && npm init
+rm -rf .git && git init && npm init -y
 ```
 
 Install dependencies:
 
 ```
-npm install
+npm i
 ```
 
 Finally, you need to start a local web server. Run:
