@@ -3,7 +3,7 @@
 A minimal Preact boilerplate project, powered by Parcel.
 
 <p align="center">
-  <img src"https://user-images.githubusercontent.com/48409548/67021430-0c0a7880-f119-11e9-8031-cbc278164e4b.png" alt='Preact App in Action'>
+  <img alt="Preact App in Action" src="https://user-images.githubusercontent.com/48409548/67021430-0c0a7880-f119-11e9-8031-cbc278164e4b.png">
 </p>
 
 ## Development
