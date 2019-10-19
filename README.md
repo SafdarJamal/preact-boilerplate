@@ -39,7 +39,7 @@ cd preact-boilerplate
 Make it your own:
 
 ```
-rm -rf .git && git init && npm init -y
+rm -rf .git && git init && npm init
 ```
 
 Install dependencies:
@@ -56,10 +56,10 @@ npm start
 
 #### npm scripts
 
-| Script        | Description                                                                                        |
-| ------------- | -------------------------------------------------------------------------------------------------- |
-| npm start     | Builds the app for development to the `build/dev` folder and Runs the app in the development mode. |
-| npm run build | Builds the app for production to the `build/prod` folder.                                          |
+| Script        | Description                                          |
+| ------------- | ---------------------------------------------------- |
+| npm start     | Runs the app in the development mode.                |
+| npm run build | Builds the app for production to the `build` folder. |
 
 ## License
 
