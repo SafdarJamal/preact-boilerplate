@@ -3,8 +3,8 @@
 /.pnp
 .pnp.js
 
-# testing
-/coverage
+# cache
+/.cache
 
 # production
 /build
