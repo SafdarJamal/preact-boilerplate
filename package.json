@@ -2,7 +2,7 @@
   "name": "preact-boilerplate",
   "version": "1.1.1",
   "description": "A minimal Preact boilerplate project, powered by Parcel.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "rimraf build/* && parcel public/index.html --out-dir build --port 3000 --open",
     "build": "rimraf build/* && parcel build public/index.html --out-dir build"
