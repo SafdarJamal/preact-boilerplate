@@ -1,6 +1,6 @@
 {
   "name": "preact-boilerplate",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A minimal Preact boilerplate project, powered by Parcel.",
   "main": "src/index.js",
   "scripts": {
