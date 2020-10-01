@@ -1,5 +1,5 @@
 import { h } from 'preact';
-import logo from './logo.png';
+import logo from './logo.svg';
 import './App.css';
 
 const App = () => {
