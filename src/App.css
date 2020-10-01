@@ -4,6 +4,7 @@
 
 .App-logo {
   height: 40vmin;
+  pointer-events: none;
 }
 
 .App-header {
@@ -18,5 +19,5 @@
 }
 
 .App-link {
-  color: #09d3ac;
+  color: #61dafb;
 }
