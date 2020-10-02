@@ -1,10 +1,8 @@
 # Preact Boilerplate
 
-A minimal Preact boilerplate project, powered by Parcel.
+A minimal [Preact](https://preactjs.com) boilerplate project, powered by [Parcel](https://parceljs.org).
 
-<p align="center">
-  <img alt="Preact App in Action" src="https://user-images.githubusercontent.com/48409548/67021430-0c0a7880-f119-11e9-8031-cbc278164e4b.png">
-</p>
+![Preact App in Action](https://user-images.githubusercontent.com/48409548/94948750-4707e680-04f9-11eb-99e9-eb53ed5b5c57.png)
 
 ## Folder Structure
 
@@ -24,7 +22,7 @@ preact-boilerplate
     ├── App.js
     ├── index.css
     ├── index.js
-    └── logo.png
+    └── logo.svg
 ```
 
 ## Development
@@ -40,6 +38,8 @@ Make it your own:
 
 ```
 rm -rf .git && git init && npm init
+git add .
+git commit -m "Initial commit"
 ```
 
 Install dependencies:
@@ -54,11 +54,13 @@ Finally, you need to start a local web server. Run:
 npm start
 ```
 
-#### npm scripts
+and then you can open http://localhost:3000 to view it in the browser.
+
+#### Available Scripts
 
 | Script        | Description                                          |
 | ------------- | ---------------------------------------------------- |
-| npm start     | Runs the app in the development mode.                |
+| npm start     | Runs the app in development mode.                    |
 | npm run build | Builds the app for production to the `build` folder. |
 
 ## License
