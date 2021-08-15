@@ -63,6 +63,10 @@ And then open http://localhost:3000 to view it in the browser.
 | npm start     | Runs the app in development mode.                    |
 | npm run build | Builds the app for production to the `build` folder. |
 
+## Credits
+
+Preact Boilerplate is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+
 ## License
 
 This project is licensed under the terms of the [MIT license](https://github.com/SafdarJamal/preact-boilerplate/blob/master/LICENSE).
