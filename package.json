@@ -3,8 +3,8 @@
   "version": "2.1.0",
   "description": "A minimal Preact boilerplate project, powered by Parcel.",
   "scripts": {
-    "start": "rimraf build/* && parcel public/index.html --out-dir build --port 3000 --open",
-    "build": "rimraf build/* && parcel build public/index.html --out-dir build"
+    "start": "rimraf build/* && parcel public/index.html --dist-dir build --port 3000 --open",
+    "build": "rimraf build/* && parcel build public/index.html --dist-dir build"
   },
   "keywords": [
     "preact",
