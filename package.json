@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/SafdarJamal/preact-boilerplate#readme",
   "dependencies": {
-    "preact": "^10.5.14"
+    "preact": "^10.6.4"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
