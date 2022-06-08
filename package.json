@@ -2,9 +2,10 @@
   "name": "preact-boilerplate",
   "version": "2.1.0",
   "description": "A minimal Preact boilerplate project, powered by Parcel.",
+  "source": "public/index.html",
   "scripts": {
-    "start": "rimraf build/* && parcel public/index.html --out-dir build --port 3000 --open",
-    "build": "rimraf build/* && parcel build public/index.html --out-dir build"
+    "start": "parcel --port 3000 --open",
+    "build": "parcel build --dist-dir build"
   },
   "keywords": [
     "preact",
@@ -24,7 +25,21 @@
     "preact": "^10.6.4"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.5",
-    "rimraf": "^3.0.2"
+    "parcel": "^2.1.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "alias": {
+    "preact/jsx-dev-runtime": "preact/jsx-runtime"
   }
 }

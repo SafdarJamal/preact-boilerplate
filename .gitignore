@@ -6,7 +6,10 @@
 .pnp.js
 
 # cache
-/.cache
+/.parcel-cache
+
+# development
+/dist
 
 # production
 /build
