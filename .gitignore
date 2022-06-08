@@ -8,6 +8,9 @@
 # cache
 /.parcel-cache
 
+# development
+/dist
+
 # production
 /build
 
