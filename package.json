@@ -25,7 +25,7 @@
     "preact": "^10.7.3"
   },
   "devDependencies": {
-    "parcel": "^2.1.0"
+    "parcel": "^2.6.0"
   },
   "browserslist": {
     "production": [
