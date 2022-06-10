@@ -1,4 +1,3 @@
-import { h } from 'preact';
 import logo from './logo.svg';
 import './App.css';
 
