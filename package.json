@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/SafdarJamal/preact-boilerplate#readme",
   "dependencies": {
-    "preact": "^10.7.3"
+    "preact": "^10.11.2"
   },
   "devDependencies": {
-    "parcel": "^2.6.0"
+    "parcel": "^2.7.0"
   },
   "browserslist": {
     "production": [
